@@ -96,7 +96,12 @@ git clone https://github.com/MohammedZaheed/Secure_Data_Handling.git
 cd Secure_Data_Handling
 ```
 
-### 2. Create Virtual Environment
+### 2. Create Output Folder
+```bash
+mkdir files
+```
+
+### 3. Create Virtual Environment
 ```bash
 python -m venv venv
 # Activate the environment:
@@ -104,20 +109,15 @@ venv\Scripts\activate      # On Windows
 source venv/bin/activate   # On Linux/macOS
 ```
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 ```bash
 pip install pycryptodome
 ```
 
-### 4. Generate RSA Keys
+### 5. Generate RSA Keys
 ```bash
 python generate_keys.py
 python generate_sender_keys.py
-```
-
-### 5. Create Output Folder
-```bash
-mkdir files
 ```
 
 ---

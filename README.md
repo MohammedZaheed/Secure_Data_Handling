@@ -12,8 +12,7 @@ A GUI-based client is used to sign and encrypt the file, which is sent to a serv
 
 ## 📽️ Demo Video
 
-🎬 [Watch the Full Demo](https://your-video-link-here.com)  
-*(Replace this link with your YouTube/Drive video after uploading)*
+🎬 [Watch the Full Demo](https://drive.google.com/file/d/15E5RbM4sCZ3OCadHcQjbCRIVS_-zWX2U/view?usp=sharing)  
 
 ---
 
